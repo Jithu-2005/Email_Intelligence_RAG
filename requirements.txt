@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-groq
+langchain-core
+chromadb
+pypdf
+fastapi
+uvicorn
+streamlit
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pydantic
